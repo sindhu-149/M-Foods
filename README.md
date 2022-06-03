@@ -46,5 +46,5 @@
 
 > Features
 
-### User friendly
-### easy to use
+* User friendly
+* easy to use
