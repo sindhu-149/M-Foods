@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+body {
+  text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: "Ubuntu";
+}
+
+/* Title Section */
+.title-img {
+  width: 200%;
+  padding-bottom: 6%;
+  transform: rotate(10deg);
+  position: absolute;
+  right: -110%
+}
+
+#title {
+  background-image: url("../images/texture.jpg");
+  text-align: left;
+  padding-bottom: -5px;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+  padding-top: 0px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/*
+.container-fluid {
+  padding: 3% 15% 8%;
+} */
+.container-fluid {
+  padding-left: 120px;
+  padding-top: 20px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Ubuntu";
+}
+
+/* Button */
+.download-btn {
+  background-color: black;
+  margin-top: 30px;
+}
+
+.items-cont {
+  margin-top: 100px;
+}
+
+.items-card {
+  margin: 30px;
+}
+
+.img-card {
+  width: 290px;
+  height: 200px;
+}
+
+/* Footer Section */
+footer {
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+#footer {
+  padding: 7% 15%;
+  background-image: url("../images/texture.jpg");
+}
+
+/* media effect */
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-img {
+    position: static;
+    transform: rotate(0);
+  }
+}
+.Copyright{
+  font-size: 30px;
+  color:black;
+}
