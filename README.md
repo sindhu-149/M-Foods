@@ -1,6 +1,6 @@
 # M-Foods
 
-### This is an **Online Food Delivery** Website for individual business purpose.
+### This is an **Online Food Delivery** Website for individual marketing purpose. This Website is useful for individual recognition and enhance better marketing.
 
 ### Languages
 
@@ -16,27 +16,35 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Navbar
-![Navbar](screenshots/navbar.png)
+### How to use?
 
-## Categories Section
+* Go to categories section , it contains all the menu list. choose any of them this will navigate you to that particular item section.
 ![Categories Section](screenshots/categories.png)
-### contains all the menu  list
 
-## Category items
+* To order any item we need to click on *Add to cart* then the item will be added to the cart. Then go to cart section.
 ![Items](screenshots/category_item.png)
-### Contains different items of same category
 
-## Cart before adding Items
-![Before adding items](screenshots/before.png)
-
-## Cart after adding Items
+* Here we can  remove items from cart and can add how many item we want.
 ![After adding items](screenshots/after.png)
 
-## Admin Login page
+### Order details are viewed in admin database
+
+* Admin Login page
 ![Admin Login page](screenshots/admin.png)
 
-## Admin Panel
+* Database
 ![After panel](screenshots/Admin_panel.png)
 
-### This contain information about the order like-name, phone number, address ,items ordered ,quantity, total amount.
+> It contain details about
+
+* order like-name
+* phone number
+* address
+* items ordered
+* quantity
+* total amount.
+
+> Features
+
+### User friendly
+### easy to use
