@@ -1,6 +1,6 @@
 # M-Foods
 
-### This is an ** Online Food Delivery ** Website for individual business purpose.
+### This is an **Online Food Delivery** Website for individual business purpose.
 
 ### Languages like  *HTML,CSS,JS*  are used for designing *Frontend* and *PHP,SQL* for *Backend*.
 
