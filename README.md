@@ -1,6 +1,6 @@
 # M-Foods
 
-### This is an **Online Food Delivery** Website for individual marketing purpose. This Website is useful for individual recognition and enhance better marketing.
+### M-Foods is an online food delivery website connects individual restaurants with a wider range of customers to order food
 
 ### Languages
 
